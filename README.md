@@ -2,6 +2,7 @@
 ATM Machine basic features
 
 Classes
+
 • DTTBankATM 
 • User 
 • Transaction
@@ -10,6 +11,7 @@ Classes
 • Program (Main class)
 
 Interfaces
+
 • ITransaction 
 • IAccount
 • IAuthenticateUser
